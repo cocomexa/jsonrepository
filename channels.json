@@ -1,22 +1,38 @@
 [
   {
     "name": "Globo Nordeste",
-    "url": "https://multicanais.com/assistir-globo-nordeste-online-ao-vivo-hd/"
+    "url": "https://multicanais.com/assistir-globo-nordeste-online-ao-vivo-hd/",
+    "category": "Futebol"
   },
   {
     "name": "Globo Rio de janeiro",
-    "url": "https://multicanais.com/globo-rj-ao-vivo-hd-online-24-gratuitamente/"
+    "url": "https://multicanais.com/globo-rj-ao-vivo-hd-online-24-gratuitamente/",
+    "category": "Futebol"
   },
   {
     "name": "Globo São Paulo",
-    "url": "https://multicanais.com/globo-ao-online-hd-24h-gratis/"
+    "url": "https://multicanais.com/globo-ao-online-hd-24h-gratis/",
+    "category": "Documentários"
   },
   {
     "name": "Globo Minas Gerais",
-    "url": "https://multicanais.com/assistir-globo-minas-ao-vivo-online-hd/"
+    "url": "https://multicanais.com/assistir-globo-minas-ao-vivo-online-hd/",
+    "category": "Esportes"
   },
   {
     "name": "Globo RBS",
-    "url": "https://multicanais.com/assistir-rbs-ao-vivo-online-hd-gratis-24-h/"
+    "url": "https://multicanais.com/assistir-rbs-ao-vivo-online-hd-gratis-24-h/",
+    "category": "Esportes"
+  },
+  {
+    "name": "Globo RBS",
+    "url": "https://multicanais.com/assistir-rbs-ao-vivo-online-hd-gratis-24-h/",
+    "category": "Filmes"
+  },
+  {
+    "name": "Globo RBS",
+    "url": "https://multicanais.com/assistir-rbs-ao-vivo-online-hd-gratis-24-h/",
+    "category": "Documentários"
   }
+  
 ]
