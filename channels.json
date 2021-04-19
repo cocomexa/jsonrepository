@@ -1,22 +1,22 @@
 [
   {
-    'name': 'Globo Nordeste',
-    'url': 'https://multicanais.com/assistir-globo-nordeste-online-ao-vivo-hd/'
+    "name": "Globo Nordeste",
+    "url": "https://multicanais.com/assistir-globo-nordeste-online-ao-vivo-hd/"
   },
   {
-    'name': 'Globo Rio de janeiro',
-    'url': 'https://multicanais.com/globo-rj-ao-vivo-hd-online-24-gratuitamente/'
+    "name": "Globo Rio de janeiro",
+    "url": "https://multicanais.com/globo-rj-ao-vivo-hd-online-24-gratuitamente/"
   },
   {
-    'name': 'Globo São Paulo',
-    'url': 'https://multicanais.com/globo-ao-online-hd-24h-gratis/'
+    "name": "Globo São Paulo",
+    "url": "https://multicanais.com/globo-ao-online-hd-24h-gratis/"
   },
   {
-    'name': 'Globo Minas Gerais',
-    'url': 'https://multicanais.com/assistir-globo-minas-ao-vivo-online-hd/'
+    "name": "Globo Minas Gerais",
+    "url": "https://multicanais.com/assistir-globo-minas-ao-vivo-online-hd/"
   },
   {
-    'name': 'Globo RBS',
-    'url': 'https://multicanais.com/assistir-rbs-ao-vivo-online-hd-gratis-24-h/'
+    "name": "Globo RBS",
+    "url": "https://multicanais.com/assistir-rbs-ao-vivo-online-hd-gratis-24-h/"
   }
 ]
